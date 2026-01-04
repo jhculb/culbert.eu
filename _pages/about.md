@@ -37,6 +37,6 @@ latest_posts:
 
 Hi, I'm a researcher at GESIS focusing on scholarly document processing and knowledge graph utilisation with an aim to improve detection of LLM use in science, in particular egregious use. I have academic interests in scientometrics, creativity in science, author name disambiguation, reproducible science, web data capture and news verification.
 
-I have worked within the German Competence Network for Bibliometrics since 2023 and am currently working in the [Open Bibliometrics](https://www.open-bibliometrics.de) project from 2026 to 2028. As part of this work I created the [Open Research Converter](orc-demo.gesis.org), which can be used to quickly identify OpenAlex IDs from DOIs in bulk.
+I have worked within the German Competence Network for Bibliometrics since 2023 and am currently working in the [Open Bibliometrics](https://www.open-bibliometrics.de) project from 2026 to 2028. As part of this work I created the [Open Research Converter](https://orc-demo.gesis.org), which can be used to quickly identify OpenAlex IDs from DOIs in bulk.
 
 In my spare time I enjoy listening to, composing and performing music, throwing together projects in electronics and programming, astronomy and computer games such as Terra Invicta and EU5.
