@@ -2,6 +2,43 @@
  * Styles for the base elements of the theme.
  ******************************************************************************/
 
+// Typography - Crimson Text Font
+
+html,
+body {
+  font-family: 'Crimson Text', serif;
+}
+
+h1,
+h2,
+h3,
+h4,
+h5,
+h6,
+p,
+li,
+span,
+div,
+table,
+input,
+textarea,
+select,
+button,
+blockquote,
+nav,
+footer {
+  font-family: 'Crimson Text', serif;
+}
+
+// Keep monospace for code elements
+code,
+pre,
+kbd,
+samp,
+.more-info {
+  font-family: 'Monaco', 'Menlo', 'Ubuntu Mono', 'Consolas', 'source-code-pro', monospace;
+}
+
 // Typography
 
 p,

@@ -5,6 +5,11 @@
 
 @use "sass:color";
 
+// Font Variables
+$font-family-serif: 'Crimson Text', Georgia, serif !default;
+$font-family-monospace: 'Monaco', 'Menlo', 'Ubuntu Mono', 'Consolas', 'source-code-pro', monospace !default;
+$font-family-base: $font-family-serif !default;
+
 // Colors
 $red-color: #ff3636 !default;
 $red-color-dark: #b71c1c !default;
