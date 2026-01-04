@@ -1,4 +1,1 @@
-User-agent: *
-Disallow:
-
-Sitemap: https://culbert.eu//sitemap.xml
+Sitemap: https://culbert.eu/sitemap.xml
