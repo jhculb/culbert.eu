@@ -63,7 +63,7 @@
       description: 4TCT collects textual data from 4chan 
     - title: <a href="https://github.com/kbopenbib/kbopenbib_data">Kompetenz Netwerk Bibliometrie - OpenBIB </a>
       year: 2025-now
-      description: ARepository containing scripts, examples and instructions for working with the OPENBIB snapshot 
+      description: A Repository containing scripts, examples and instructions for working with the OPENBIB snapshot 
     
 # - title: Honors and Awards
 #   type: time_table
@@ -81,7 +81,7 @@
   contents:
     - title: Computer Science
       items:
-        - "AI Detection in Science"
+        - "LLM Fingerprinting and Detection with a focus on Scientific Fraud"
         - "Scholarly Document Processing - Extraction"
         - "Scientific Knowledge Graphs - Construction and Utilisation"
         - "Web Data Collection"
@@ -91,7 +91,7 @@
         - "Large Scale Analyses"
         - "Reproducible Science"
         - "Creativity in Science"
-        - "Fraud Detection"
+        - "Scientific Fraud Detection"
     - title: Mathematics
       items:
         - Discrete Mathematics
