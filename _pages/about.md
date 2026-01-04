@@ -2,7 +2,7 @@
 layout: about
 title: about
 permalink: /
-subtitle: Work In Progress.
+subtitle: A Work In Progress Portfolio.
 # subtitle: <a href='#'>Affiliations</a>.
 
 profile:
