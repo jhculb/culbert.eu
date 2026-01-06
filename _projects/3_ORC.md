@@ -6,4 +6,5 @@ img:
 redirect: https://orc-demo.gesis.org
 importance: 3
 category: work
+related_publications: true
 ---

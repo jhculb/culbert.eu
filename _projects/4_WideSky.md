@@ -1,10 +1,11 @@
 ---
 layout: page
-title: project 5
-description: a project with a background image
+title: WideSky
+description: Collecting and Storing the BlueSky Firehose
 img:
-importance: 4
-category: fun
+importance: 3
+category: work
+related_publications: true
 ---
 
 Every project has a beautiful feature showcase page.

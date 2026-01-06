@@ -1,10 +1,10 @@
 ---
 layout: page
-title: WideSky
-description: Collecting and Storing the BlueSky Firehose
+title: Astronomy and Astrophotography
+description: With my Meade LX90GPS
 img:
-importance: 3
-category: work
+importance: 4
+category: fun
 ---
 
 Every project has a beautiful feature showcase page.
