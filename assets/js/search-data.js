@@ -417,32 +417,32 @@ ninja.data = [{
           title: 'OpenBib',
           description: "Supporting Open Bibliometric Data",
           section: "Projects",handler: () => {
-              window.location.href = "/projects/1_project/";
+              window.location.href = "/projects/1_OpenBib/";
             },},{id: "projects-omino",
           title: 'OMINO',
           description: "Overcoming Multilevel Information Overload",
           section: "Projects",handler: () => {
-              window.location.href = "/projects/2_project/";
+              window.location.href = "/projects/2_OMINO/";
             },},{id: "projects-the-open-research-converter",
           title: 'The Open Research Converter',
           description: "Expanding Reproducible Bibliometrics",
           section: "Projects",handler: () => {
-              window.location.href = "/projects/3_project/";
+              window.location.href = "/projects/3_ORC/";
             },},{id: "projects-widesky",
           title: 'WideSky',
           description: "Collecting and Storing the BlueSky Firehose",
           section: "Projects",handler: () => {
-              window.location.href = "/projects/4_project/";
-            },},{id: "projects-project-5",
-          title: 'project 5',
-          description: "a project with a background image",
+              window.location.href = "/projects/4_WideSky/";
+            },},{id: "projects-electronics",
+          title: 'Electronics',
+          description: "Documenting my electronics projects",
           section: "Projects",handler: () => {
-              window.location.href = "/projects/5_project/";
-            },},{id: "projects-project-6",
-          title: 'project 6',
-          description: "a project with no image",
+              window.location.href = "/projects/5_Electronics/";
+            },},{id: "projects-astronomy-and-astrophotography",
+          title: 'Astronomy and Astrophotography',
+          description: "With my Meade LX90GPS",
           section: "Projects",handler: () => {
-              window.location.href = "/projects/6_project/";
+              window.location.href = "/projects/6_Astronomy/";
             },},{id: "projects-project-7",
           title: 'project 7',
           description: "with background image",
@@ -453,11 +453,11 @@ ninja.data = [{
           description: "an other project with a background image and giscus comments",
           section: "Projects",handler: () => {
               window.location.href = "/projects/8_project/";
-            },},{id: "projects-project-9",
-          title: 'project 9',
-          description: "another project with an image 🎉",
+            },},{id: "projects-music",
+          title: 'Music',
+          description: "",
           section: "Projects",handler: () => {
-              window.location.href = "/projects/9_project/";
+              window.location.href = "/projects/9_Music/";
             },},{
         id: 'social-acm',
         title: 'ACM DL',
