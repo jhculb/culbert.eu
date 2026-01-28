@@ -1,5 +1,5 @@
 metadata:
-  last_updated: '2026-01-19'
+  last_updated: '2026-01-28'
 papers:
   bjkCXDwAAAAJ:2osOgNQ5qMEC:
     citations: 5
@@ -14,11 +14,11 @@ papers:
     title: Automating Reproducible Bibliometrics with the Open Research Converter
     year: Unknown Year
   bjkCXDwAAAAJ:YsMSGLbcyi4C:
-    citations: 28
+    citations: 30
     title: Analysis of the publication and document types in OpenAlex, Web of Science, Scopus, Pubmed and Semantic Scholar
     year: '2024'
   bjkCXDwAAAAJ:d1gkVwhDpl0C:
-    citations: 111
+    citations: 116
     title: Reference coverage analysis of OpenAlex compared to Web of Science and Scopus
     year: '2025'
   bjkCXDwAAAAJ:eQOLeE2rZwMC:
@@ -34,6 +34,6 @@ papers:
     title: 4TCT, A 4chan Text Collection Tool
     year: '2023'
   bjkCXDwAAAAJ:zYLM7Y9cAGgC:
-    citations: 1
+    citations: 2
     title: 'OPENBIB: Selected curated open metadata based on OpenAlex'
     year: '2025'
