@@ -1,5 +1,5 @@
 metadata:
-  last_updated: '2026-01-28'
+  last_updated: '2026-02-02'
 papers:
   bjkCXDwAAAAJ:2osOgNQ5qMEC:
     citations: 5
@@ -14,11 +14,11 @@ papers:
     title: Automating Reproducible Bibliometrics with the Open Research Converter
     year: Unknown Year
   bjkCXDwAAAAJ:YsMSGLbcyi4C:
-    citations: 30
+    citations: 31
     title: Analysis of the publication and document types in OpenAlex, Web of Science, Scopus, Pubmed and Semantic Scholar
     year: '2024'
   bjkCXDwAAAAJ:d1gkVwhDpl0C:
-    citations: 116
+    citations: 118
     title: Reference coverage analysis of OpenAlex compared to Web of Science and Scopus
     year: '2025'
   bjkCXDwAAAAJ:eQOLeE2rZwMC:
