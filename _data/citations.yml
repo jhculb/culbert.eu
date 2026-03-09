@@ -1,24 +1,20 @@
 metadata:
-  last_updated: '2026-02-25'
+  last_updated: '2026-03-09'
 papers:
   bjkCXDwAAAAJ:2osOgNQ5qMEC:
     citations: 6
     title: 'Utilizing large language models for named entity recognition in traditional chinese medicine against COVID-19 literature: Comparative study'
-    year: '2024'
-  bjkCXDwAAAAJ:Tyk-4Ss8FVUC:
-    citations: 0
-    title: 'Analysis of the Publication and Document Types in OpenAlex, Web of Science, Scopus, Pubmed and Semantic Scholar (arXiv: 2406.15154). arXiv'
     year: '2024'
   bjkCXDwAAAAJ:Y0pCki6q_DkC:
     citations: 0
     title: Automating Reproducible Bibliometrics with the Open Research Converter
     year: Unknown Year
   bjkCXDwAAAAJ:YsMSGLbcyi4C:
-    citations: 33
+    citations: 34
     title: Analysis of the publication and document types in OpenAlex, Web of Science, Scopus, Pubmed and Semantic Scholar
     year: '2024'
   bjkCXDwAAAAJ:d1gkVwhDpl0C:
-    citations: 136
+    citations: 139
     title: Reference coverage analysis of OpenAlex compared to Web of Science and Scopus
     year: '2025'
   bjkCXDwAAAAJ:eQOLeE2rZwMC:
