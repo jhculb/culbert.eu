@@ -1,24 +1,20 @@
 metadata:
-  last_updated: '2026-03-20'
+  last_updated: '2026-03-25'
 papers:
   bjkCXDwAAAAJ:2osOgNQ5qMEC:
     citations: 6
     title: 'Utilizing large language models for named entity recognition in traditional chinese medicine against COVID-19 literature: Comparative study'
     year: '2024'
-  bjkCXDwAAAAJ:WF5omc3nYNoC:
-    citations: 5
-    title: Reference coverage analysis of OpenAlex compared to Web of Science and Scopus. arxiv. 2024
-    year: Unknown Year
   bjkCXDwAAAAJ:Y0pCki6q_DkC:
     citations: 0
     title: Automating Reproducible Bibliometrics with the Open Research Converter
     year: Unknown Year
   bjkCXDwAAAAJ:YsMSGLbcyi4C:
-    citations: 36
+    citations: 38
     title: Analysis of the publication and document types in OpenAlex, Web of Science, Scopus, Pubmed and Semantic Scholar
     year: '2024'
   bjkCXDwAAAAJ:d1gkVwhDpl0C:
-    citations: 147
+    citations: 149
     title: Reference coverage analysis of OpenAlex compared to Web of Science and Scopus
     year: '2025'
   bjkCXDwAAAAJ:eQOLeE2rZwMC:
@@ -26,7 +22,7 @@ papers:
     title: 'Investigating the originality of scientific papers across time and domain: A quantitative analysis'
     year: '2025'
   bjkCXDwAAAAJ:qjMakFHDy7sC:
-    citations: 1
+    citations: 2
     title: Originality in scientific titles and abstracts can predict citation count
     year: '2025'
   bjkCXDwAAAAJ:u-x6o8ySG0sC:
