@@ -1,5 +1,5 @@
 metadata:
-  last_updated: '2026-06-17'
+  last_updated: '2026-06-24'
 papers:
   bjkCXDwAAAAJ:2osOgNQ5qMEC:
     citations: 6
@@ -14,7 +14,7 @@ papers:
     title: Analysis of the publication and document types in OpenAlex, Web of Science, Scopus, Pubmed and Semantic Scholar
     year: '2024'
   bjkCXDwAAAAJ:d1gkVwhDpl0C:
-    citations: 222
+    citations: 227
     title: Reference coverage analysis of OpenAlex compared to Web of Science and Scopus
     year: '2025'
   bjkCXDwAAAAJ:eQOLeE2rZwMC:
